@@ -69,7 +69,6 @@ Don't forget to put your key for using OPENAI API
 ```
 client = OpenAI(api_key="PUT_YOUR_KEY_HERE")
 ```
-```
 
 ### Explanation
 
